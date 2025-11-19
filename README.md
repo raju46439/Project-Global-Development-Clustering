@@ -20,4 +20,4 @@
 
 **Tech Stack**: Python, pandas, scikit-learn, matplotlib, Streamlit
 
- link:https://clusteringglobaldevelopment-uhwbphzzpdncpdcc3ijcq9.streamlit.app/
+ link:https://project-global-development-clustering-cunphvmqqnshq5qnndz2a3.streamlit.app/
